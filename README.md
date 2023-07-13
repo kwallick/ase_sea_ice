@@ -1,5 +1,5 @@
-# Amundsen Sea Embayment sea ice work 
-This repo contains sea-ice concentration data and a function that calculates monthly averages and anomalies of said data. Part of MS thesis. 
+# Amundsen Sea Embayment sea-ice/ice-shelf work 
+This repo contains sea-ice and ice-shelf data along with Jupyter notebooks of codes used to analyze ocean-ice interactions in the Amundsen Sea Embayment. All work part of MS thesis. 
 
 Use [this link](https://tuprd-my.sharepoint.com/:u:/g/personal/tuo94541_temple_edu/EY8qt4t4TXlOnNil3BbWamkBBrldbINhiSU35psXnDqk_w?e=NCcqhA) to access Antarctic BedMachine file. Download to use in sea-ice function notebook. Note: large file size (~791 MB). 
 
